@@ -15,7 +15,7 @@ app.set("views", "./views");
 
 var server = require('http').Server(app);
 
-server.listen(3000);
+server.listen(process.env.PORT || 3000);
 
 
 app.get("/", (req, res) => {
