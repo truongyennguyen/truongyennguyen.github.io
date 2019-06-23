@@ -1,0 +1,65 @@
+{
+    "accounts" : [
+        {
+            "name" : "nameuser1",
+            "username" : "username1",
+            "password" : "123456",
+            "type" : "user"
+        },
+        {
+            "name" : "nameuser2",
+            "username" : "username2",
+            "password" : "123456",
+            "type" : "user"
+        },
+        {
+            "name" : "nameuser3",
+            "username" : "username3",
+            "password" : "123456",
+            "type" : "user"
+        },
+        {
+            "name" : "nameuser4",
+            "username" : "username4",
+            "password" : "123456",
+            "type" : "user"
+        },
+        {
+            "name" : "nameuser5",
+            "username" : "username5",
+            "password" : "123456",
+            "type" : "user"
+        },
+        {
+            "name" : "nameteacher1",
+            "username" : "teacher1",
+            "password" : "123456",
+            "type" : "teacher"
+        },
+        {
+            "name" : "nameteacher2",
+            "username" : "teacher2",
+            "password" : "123456",
+            "type" : "teacher"
+        },
+        {
+            "name" : "nameteacher3",
+            "username" : "teacher3",
+            "password" : "123456",
+            "type" : "teacher"
+        },
+        {
+            "name" : "nameteacher4",
+            "username" : "teacher4",
+            "password" : "123456",
+            "type" : "teacher"
+        },
+        {
+            "name" : "nameteacher5",
+            "username" : "teacher5",
+            "password" : "123456",
+            "type" : "teacher"
+        }
+    ]
+    
+}
